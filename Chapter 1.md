@@ -1,9 +1,6 @@
 # 神経科学研究の歴史
 本に載っている人だけ挙げているが、当然のことながら氷山の一角である。
 
-<img src="https://github.com/HandaiMedStudent/Principles-of-Neural-Science/blob/img/pic.png" width=80%>
-左からGolgi, Ramon y Cajal, Broca, Wernicke, Adrian
-
 ## ニューロン説
 - Galen(129?-200?)「神経は脳と脊髄から分泌される液を全身に送る」→西洋医学の主流に。
 - C. Golgi(1843-1926)：銀染色の開発。
@@ -35,3 +32,7 @@
 - K. Lashley(1890-1958)：大脳の機能局在に否定的、「量作用」による全体論の再構築。
   - 20世紀になっても、機能局在説に完全な信頼はなかった。「パブロフの犬」で知られるI. Pavlovも全体論を支持した。
 - E. Adrian(1889-1977)：感覚機能の系統的な領域地図を作製→「ホムンクルス」の素地。1932年ノーベル生理学・医学賞。
+
+
+<img src="https://github.com/HandaiMedStudent/Principles-of-Neural-Science/blob/img/pic.png" width=80%>
+左からGolgi, Ramon y Cajal, Broca, Wernicke, Adrian
