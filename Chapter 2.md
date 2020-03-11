@@ -1,6 +1,6 @@
 # ニューロン
 一般的なニューロンの構造は以下のようである。
-<img src="https://github.com/HandaiMedStudent/Principles-of-Neural-Science/blob/img/neuron-structure.jpg" width=80%>
+<img src="https://github.com/HandaiMedStudent/Principles-of-Neural-Science/blob/img/neuron-structure.jpg" width=60%>
 
 画像出典：[https://training.seer.cancer.gov/anatomy/nervous/tissue.html](https://training.seer.cancer.gov/anatomy/nervous/tissue.html)
 
@@ -16,9 +16,14 @@
 - 双極（bipolar）ニューロン：感覚ニューロンに多い（樹状突起は末梢のシグナルを受け取り、軸索は中枢に向かう）。
   - 偽単極（Pseudo-unipolar）ニューロン：触覚、圧覚、痛覚の感覚ニューロン。
 - 多極（multipolar）ニューロン：最も多い。シナプス入力の個数は1~100万とさまざま。
+<img src="https://github.com/HandaiMedStudent/Principles-of-Neural-Science/blob/img/tmp1428_thumb.jpg" width=70%>
 
 画像出典：[http://what-when-how.com/neuroscience/histology-of-the-nervous-system-the-neuron-part-2/](http://what-when-how.com/neuroscience/histology-of-the-nervous-system-the-neuron-part-2/)
 
-# 活動電位
+## 活動電位
 - 軸索の根元近くの軸索初節（initial segment）から発生。
 - 神経系全体のシグナルとして共通（視覚系も聴覚系も同じ）→情報はシグナルの種類でなく経路によって決まる！
+- 伝達は軸索に向かう一方向性。
+- 
+
+## 神経回路
